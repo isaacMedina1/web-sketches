@@ -1,0 +1,10 @@
+div[class^='col-md-']{
+  padding: 1.4em;
+  /*background: #F1F2FA*/;
+  /*border: 1px dashed black*/;
+}
+
+.iconlg {
+  font-size: 3em;
+  color: rgb(33, 37, 41);
+}
